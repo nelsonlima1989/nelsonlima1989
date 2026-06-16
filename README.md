@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Nelson Lima Costa Júnior
+## Nelson Lima Costa Júnior
 
 ## Desenvolvedor Full Stack | C#/.NET • Node.js • TypeScript • React • SQL
 
