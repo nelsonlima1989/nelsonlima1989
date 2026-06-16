@@ -23,15 +23,34 @@ Bot desenvolvido em **TypeScript, Node.js, Discord.js e PostgreSQL**, criado par
 - 📜 Histórico completo das participações;
 - 📊 Relatórios diários, semanais e mensais;
 - 💾 Persistência dos dados em PostgreSQL;
-- ⚙️ Arquitetura modular utilizando TypeScript;
-- 🔄 Atualização automática dos painéis no Discord.
+- 🔄 Atualização automática dos painéis no Discord;
+- ⚙️ Arquitetura modular utilizando TypeScript.
+
+### Infraestrutura e Deploy
+
+- 🐳 Containerização da aplicação utilizando Docker;
+- 📦 Orquestração dos serviços com Docker Compose;
+- ☁️ Hospedagem em VPS da Oracle Cloud Infrastructure (OCI);
+- 🗄️ Banco de dados PostgreSQL;
+- 🚀 Ambiente preparado para execução contínua (24/7).
 
 ### Stack utilizada
+
+#### Backend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+#### Banco de Dados
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+#### DevOps & Infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 🔗 **Repositório**
 
@@ -48,13 +67,13 @@ Bot desenvolvido em **TypeScript, Node.js, Discord.js e PostgreSQL**, criado par
 🎯 Tenho foco em:
 
 - Desenvolvimento Back-end com C#/.NET;
+- Desenvolvimento Full Stack com Node.js e React;
 - APIs REST;
 - SQL Server e PostgreSQL;
-- React e TypeScript;
 - Arquitetura de software;
 - Boas práticas e código limpo.
 
-📚 Cursando **Análise e Desenvolvimento de Sistemas** e aprofundando conhecimentos em **Clean Architecture, Microsserviços e Cloud Computing**.
+📚 Cursando **Análise e Desenvolvimento de Sistemas** e aprofundando conhecimentos em **Clean Architecture, Microsserviços, Docker e Cloud Computing**.
 
 ---
 
@@ -96,6 +115,12 @@ Bot desenvolvido em **TypeScript, Node.js, Discord.js e PostgreSQL**, criado par
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 ## Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -123,7 +148,13 @@ Bot desenvolvido em **TypeScript, Node.js, Discord.js e PostgreSQL**, criado par
 ## Telexperts Telecomunicações S.A.
 📅 Junho/2015 – Outubro/2024
 
-Atuação em infraestrutura e telecomunicações, passando pelos cargos de Assistente de Redes até Analista de Ativação Pleno, com experiência em VoIP, SIP, E1, provisionamento e suporte técnico.
+Atuação em infraestrutura e telecomunicações, passando pelos cargos de Assistente de Redes até Analista de Ativação Pleno, com experiência em:
+
+- Redes e infraestrutura;
+- Provisionamento de serviços;
+- VoIP, SIP e E1;
+- Suporte técnico;
+- Troubleshooting e análise de incidentes.
 
 ---
 
@@ -155,16 +186,17 @@ Atuação em infraestrutura e telecomunicações, passando pelos cargos de Assis
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-📧 **E-mail:** <nelson.lima1989@hotmail.com>
+📧 **E-mail:**  
+**nelson.lima1989@hotmail.com**
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/nelsonlima1989/
+**www.linkedin.com/in/nelsonlima1989**
 
 💻 **GitHub:**  
-https://github.com/nelsonlima1989
+**github.com/nelsonlima1989**
 
 ---
 
-⭐ Sempre em busca de novos desafios e oportunidades para construir soluções escaláveis e evoluir como desenvolvedor.
+⭐ Sempre em busca de novos desafios e oportunidades para construir soluções escaláveis, aprender novas tecnologias e evoluir continuamente como desenvolvedor.
